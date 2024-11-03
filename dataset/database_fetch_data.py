@@ -75,7 +75,8 @@ def fetch_and_merge_data_pharos(table_names, merge_on):
 # Usage example:
 table_names = ["drug_activity", "target", "protein"]
 merge_on = 'target_id'
-final_df = fetch_and_merge_data_pharos(table_names, merge_on)
+df_pharos = fetch_and_merge_data_pharos(table_names, merge_on)
+df_pharos.to_csv('pharos.csv')
 
 
 def fetch_and_merge_data_chembl(database, user, password, host, port, query):
@@ -129,7 +130,7 @@ def fetch_and_merge_data_chembl(database, user, password, host, port, query):
     return df
 
 
-# using the function
+# using the function (these variables are an example need to be modified according to the own datacent)
 
 database = 'chembl_32'
 user = 'postgres'
@@ -149,10 +150,15 @@ query = """
     WHERE td.organism = 'Homo sapiens'
 """
 
-df = fetch_and_merge_data_chembl(database, user, password, host, port, query)
-df.to_csv('chembl.csv', index=False)
+# fetch and save the from the chembl_32 dataset 
+df_chembl = fetch_and_merge_data_chembl(database, user, password, host, port, query)
+df_chembl.to_csv('chembl.csv', index=False)
 
 
 def fetch_and_merge_data_drug_central(TSV_file_path):
     df = pd.read_csv(TSV_file_path)
     return df[['smiles', 'uniprot']]
+
+
+df_drug_centeral = fetch_and_merge_data_drug_central('tchem_drugs_05122020.tsv') # it can be downloaded from the drugcenteral.org
+df_drug_centeral.to_csv('drug_centeral.csv')
