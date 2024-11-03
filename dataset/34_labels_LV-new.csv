@@ -1,0 +1,341 @@
+label,sub-labels
+actin_filaments,Actin cytoplasmic 1
+actin_filaments,Actin cytoplasmic 2
+actin_filaments,gamma-enteric smooth muscle
+actin_filaments,Actin
+actin_filaments,alpha skeletal muscle
+cell_junctions,Cell junction
+cell_junctions,Cell junction Adherens junction
+cell_junctions,Cell junction Desmosome
+cell_junctions,Cell junction Focal adhesion
+cell_junctions,Cell junction Gap junction
+cell_junctions,Cell junction Hemidesmosome
+cell_junctions,Cell junction Paranodal septate junction
+cell_junctions,Cell junction Tight junction
+cytoplasmic_bodies,Cytoplasm P-body
+cytoskeleton,Cytoplasm Cytoskeleton
+cytoskeleton,Cytoplasm Cytoskeleton Cilium axoneme
+cytoskeleton,Cytoplasm Cytoskeleton Cilium basal body
+cytoskeleton,Cytoplasm Cytoskeleton Flagellum axoneme
+microtubule_organizing_center,Cytoplasm Cytoskeleton Microtubule organizing center
+centrosome,Cytoplasm Cytoskeleton Microtubule organizing center Centrosome
+centrosome,Cytoplasm Cytoskeleton Microtubule organizing center Centrosome Centriole
+microtubule_organizing_center,Cytoplasm Cytoskeleton Microtubule organizing center Spindle pole body
+cytoskeleton,Cytoplasm Cytoskeleton Spindle
+cytoskeleton,Cytoplasm Cytoskeleton Spindle pole
+cytoskeleton,Cytoplasm Cytoskeleton Stress fiber
+cytoskeleton,Dynein axonemal particle
+cytosol,Cytolytic granule
+cytosol,Cytolytic granule membrane
+cytosol,Cytoplasm
+cytosol,Cytoplasm Cell cortex
+cytosol,Cytoplasm Cytosol
+cytosol,Cytoplasm Perinuclear region
+cytosol,Cytoplasm Stress granule
+cytosol,Cytoplasmic granule
+vesicle,Cytoplasmic vesicle
+vesicle,Cytoplasmic vesicle Autophagosome
+vesicle,Cytoplasmic vesicle Autophagosome lumen
+vesicle_membrane,Cytoplasmic vesicle Autophagosome membrane
+vesicle_membrane,Cytoplasmic vesicle Autophagosome membrane Lipid-anchor
+vesicle_membrane,Cytoplasmic vesicle Autophagosome membrane Multi-pass membrane protein
+vesicle_membrane,Cytoplasmic vesicle Autophagosome membrane Peripheral membrane protein Cytoplasmic side
+vesicle_membrane,Cytoplasmic vesicle COPII-coated vesicle membrane Multi-pass membrane protein
+vesicle,Cytoplasmic vesicle Clathrin-coated vesicle
+vesicle_membrane,Cytoplasmic vesicle Clathrin-coated vesicle membrane
+vesicle_membrane,Cytoplasmic vesicle Clathrin-coated vesicle membrane Peripheral membrane protein
+vesicle_membrane,Cytoplasmic vesicle Clathrin-coated vesicle membrane Single-pass type I membrane protein
+vesicle,Cytoplasmic vesicle Phagosome
+vesicle_membrane,Cytoplasmic vesicle Phagosome membrane
+vesicle_membrane,Cytoplasmic vesicle Phagosome membrane Lipid-anchor Cytoplasmic side
+vesicle_membrane,Cytoplasmic vesicle Phagosome membrane Multi-pass membrane protein
+vesicle_membrane,Cytoplasmic vesicle Phagosome membrane Peripheral membrane protein
+vesicle_membrane,Cytoplasmic vesicle Phagosome membrane Peripheral membrane protein Cytoplasmic side
+vesicle_membrane,Cytoplasmic vesicle Phagosome membrane Single-pass type I membrane protein
+vesicle,Cytoplasmic vesicle Secretory vesicle
+vesicle,Cytoplasmic vesicle Secretory vesicle Acrosome
+vesicle_membrane,Cytoplasmic vesicle Secretory vesicle Acrosome membrane Peripheral membrane protein
+vesicle,Cytoplasmic vesicle Secretory vesicle Chromaffin granule
+vesicle,Cytoplasmic vesicle Secretory vesicle Chromaffin granule lumen
+vesicle_membrane,Cytoplasmic vesicle Secretory vesicle Chromaffin granule membrane Single-pass type II membrane protein
+vesicle,Cytoplasmic vesicle Secretory vesicle Cortical granule
+vesicle_membrane,Cytoplasmic vesicle Secretory vesicle Microneme membrane Multi-pass membrane protein
+vesicle_membrane,Cytoplasmic vesicle Secretory vesicle Synaptic vesicle
+vesicle_membrane,Cytoplasmic vesicle Secretory vesicle Synaptic vesicle membrane
+vesicle_membrane,Cytoplasmic vesicle Secretory vesicle Synaptic vesicle membrane Multi-pass membrane protein
+vesicle_membrane,Cytoplasmic vesicle Secretory vesicle Synaptic vesicle membrane Peripheral membrane protein
+vesicle_membrane,Cytoplasmic vesicle Secretory vesicle Synaptic vesicle membrane Single-pass type I membrane protein
+vesicle,Cytoplasmic vesicle Secretory vesicle lumen
+vesicle_membrane,Cytoplasmic vesicle Secretory vesicle membrane Multi-pass membrane protein
+vesicle_membrane,Cytoplasmic vesicle Secretory vesicle membrane Single-pass membrane protein
+vesicle_membrane,Cytoplasmic vesicle Secretory vesicle membrane Single-pass type II membrane protein
+vesicle,Cytoplasmic vesicle lumen
+vesicle_membrane,Cytoplasmic vesicle membrane
+vesicle_membrane,Cytoplasmic vesicle membrane Lipid-anchor
+vesicle_membrane,Cytoplasmic vesicle membrane Lipid-anchor Cytoplasmic side
+vesicle_membrane,Cytoplasmic vesicle membrane Multi-pass membrane protein
+vesicle_membrane,Cytoplasmic vesicle membrane Peripheral membrane protein
+vesicle_membrane,Cytoplasmic vesicle membrane Peripheral membrane protein Cytoplasmic side
+vesicle_membrane,Cytoplasmic vesicle membrane Single-pass type I membrane protein
+cytosol,Inflammasome
+cytosol,Lipid droplet
+peroxisome,Peroxisome
+peroxisome,Peroxisome matrix
+peroxisome,Peroxisome membrane Multi-pass membrane protein
+peroxisome,Peroxisome membrane Peripheral membrane protein Matrix side
+vesicle,Zymogen granule
+vesicle,Zymogen granule lumen
+vesicle_membrane,Zymogen granule membrane Peripheral membrane protein
+myofibril,Cytoplasm Myofibril Sarcomere
+myofibril,Cytoplasm Myofibril Sarcomere M line
+myofibril,Cytoplasm Myofibril Sarcomere Z line
+endoplasmic_reticulum,Endoplasmic reticulum
+er_lumen,Endoplasmic reticulum lumen
+er_membrane,Endoplasmic reticulum membrane
+er_membrane,Endoplasmic reticulum membrane Lipid-anchor
+er_membrane,Endoplasmic reticulum membrane Lipid-anchor Cytoplasmic side
+er_membrane,Endoplasmic reticulum-Golgi intermediate compartment
+endoplasmic_reticulum,Endoplasmic reticulum-Golgi intermediate compartment membrane
+endoplasmic_reticulum,Microsome
+er_membrane,Microsome membrane
+er_membrane,Microsome membrane Lipid-anchor
+endoplasmic_reticulum,Rough endoplasmic reticulum
+endosome,Endosome
+endosome,Endosome Multivesicular body
+endosome_membrane,Endosome membrane
+endosome_membrane,Endosome membrane Multi-pass membrane protein
+endosome_membrane,Endosome membrane Peripheral membrane protein
+endosome_membrane,Endosome membrane Single-pass type I membrane protein
+endosome_membrane,Endosome membrane Single-pass type II membrane protein
+endosome,Early endosome
+endosome_membrane,Early endosome membrane
+endosome_membrane,Early endosome membrane Multi-pass membrane protein
+endosome_membrane,Early endosome membrane Peripheral membrane protein
+endosome_membrane,Early endosome membrane Peripheral membrane protein Cytoplasmic side
+endosome_membrane,Early endosome membrane Single-pass type I membrane protein
+endosome,Late endosome
+endosome_membrane,Late endosome membrane
+endosome_membrane,Late endosome membrane Lipid-anchor
+endosome_membrane,Late endosome membrane Lipid-anchor Cytoplasmic side
+endosome_membrane,Late endosome membrane Multi-pass membrane protein
+endosome_membrane,Late endosome membrane Peripheral membrane protein
+endosome_membrane,Late endosome membrane Peripheral membrane protein Cytoplasmic side
+endosome_membrane,Late endosome membrane Single-pass type I membrane protein
+endosome_membrane,Late endosome membrane Single-pass type II membrane protein
+endosome,Recycling endosome
+endosome_membrane,Recycling endosome membrane
+endosome_membrane,Recycling endosome membrane Lipid-anchor Cytoplasmic side
+endosome_membrane,Recycling endosome membrane Multi-pass membrane protein
+endosome_membrane,Recycling endosome membrane Peripheral membrane protein
+endosome_membrane,Recycling endosome membrane Peripheral membrane protein Cytoplasmic side
+endosome_membrane,Recycling endosome membrane Single-pass type I membrane protein
+er_membrane,Endoplasmic reticulum membrane Multi-pass membrane protein
+er_membrane,Endoplasmic reticulum membrane Peripheral membrane protein
+er_membrane,Endoplasmic reticulum membrane Peripheral membrane protein Cytoplasmic side
+er_membrane,Endoplasmic reticulum membrane Single-pass membrane protein
+er_membrane,Endoplasmic reticulum membrane Single-pass membrane protein Cytoplasmic side
+er_membrane,Endoplasmic reticulum membrane Single-pass type I membrane protein
+er_membrane,Endoplasmic reticulum membrane Single-pass type II membrane protein
+er_membrane,Endoplasmic reticulum membrane Single-pass type III membrane protein
+er_membrane,Endoplasmic reticulum membrane Single-pass type III membrane protein Cytoplasmic side
+er_membrane,Endoplasmic reticulum membrane Single-pass type IV membrane protein
+er_membrane,Endoplasmic reticulum membrane Single-pass type IV membrane protein Cytoplasmic side
+er_membrane,Endoplasmic reticulum-Golgi intermediate compartment membrane Multi-pass membrane protein
+er_membrane,Microsome membrane Multi-pass membrane protein
+er_membrane,Microsome membrane Peripheral membrane protein
+er_membrane,Microsome membrane Single-pass membrane protein
+er_membrane,Microsome membrane Single-pass type II membrane protein
+er_membrane,Microsome membrane Single-pass type III membrane protein
+er_membrane,Microsome membrane Single-pass type IV membrane protein Cytoplasmic side
+er_membrane,Rough endoplasmic reticulum membrane Multi-pass membrane protein
+er_membrane,Rough endoplasmic reticulum membrane Peripheral membrane protein
+er_membrane,Smooth endoplasmic reticulum membrane Single-pass membrane protein
+vesicle,Extracellular vesicle
+vesicle_membrane,Extracellular vesicle membrane Lipid-anchor GPI-anchor
+golgi_apparatus,Golgi apparatus
+golgi_apparatus,Golgi apparatus Cis-Golgi network
+golgi_membrane,Golgi apparatus Golgi stack membrane Multi-pass membrane protein
+golgi_membrane,Golgi apparatus Golgi stack membrane Peripheral membrane protein
+golgi_membrane,Golgi apparatus Golgi stack membrane Single-pass type I membrane protein
+golgi_membrane,Golgi apparatus Golgi stack membrane Single-pass type II membrane protein
+golgi_apparatus,Golgi apparatus Trans-Golgi network
+golgi_membrane,Golgi apparatus Trans-Golgi network membrane
+golgi_membrane,Golgi apparatus Trans-Golgi network membrane Lipid-anchor
+golgi_membrane,Golgi apparatus Trans-Golgi network membrane Multi-pass membrane protein
+golgi_membrane,Golgi apparatus Trans-Golgi network membrane Peripheral membrane protein
+golgi_membrane,Golgi apparatus Trans-Golgi network membrane Single-pass type I membrane protein
+golgi_membrane,Golgi apparatus Trans-Golgi network membrane Single-pass type II membrane protein
+golgi_lumen,Golgi apparatus lumen
+golgi_membrane,Golgi apparatus membrane
+golgi_membrane,Golgi apparatus membrane Lipid-anchor
+golgi_membrane,Golgi apparatus membrane Lipid-anchor Cytoplasmic side
+golgi_membrane,Golgi apparatus membrane Multi-pass membrane protein
+golgi_membrane,Golgi apparatus membrane Peripheral membrane protein
+golgi_membrane,Golgi apparatus membrane Peripheral membrane protein Cytoplasmic side
+golgi_membrane,Golgi apparatus membrane Single-pass membrane protein
+golgi_membrane,Golgi apparatus membrane Single-pass type I membrane protein
+golgi_membrane,Golgi apparatus membrane Single-pass type II membrane protein
+lysosome,Lysosome
+lysosome,Lysosome lumen
+lysosome_membrane,Lysosome membrane
+lysosome_membrane,Lysosome membrane Multi-pass membrane protein
+lysosome_membrane,Lysosome membrane Peripheral membrane protein
+lysosome_membrane,Lysosome membrane Peripheral membrane protein Cytoplasmic side
+lysosome_membrane,Lysosome membrane Peripheral membrane protein Lumenal side
+lysosome_membrane,Lysosome membrane Single-pass type I membrane protein
+lysosome_membrane,Lysosome membrane Single-pass type II membrane protein
+lysosome,Melanosome
+lysosome_membrane,Melanosome membrane Multi-pass membrane protein
+lysosome_membrane,Melanosome membrane Peripheral membrane protein Cytoplasmic side
+lysosome_membrane,Melanosome membrane Single-pass type I membrane protein
+membrane_proteins,Apical cell membrane Multi-pass membrane protein
+membrane_proteins,Apical cell membrane Peripheral membrane protein Cytoplasmic side
+membrane_proteins,Apical cell membrane Peripheral membrane protein Extracellular side
+membrane_proteins,Apical cell membrane Single-pass type I membrane protein
+membrane_proteins,Apical cell membrane Single-pass type II membrane protein
+membrane_proteins,Apicolateral cell membrane Multi-pass membrane protein
+membrane_proteins,Basal cell membrane Multi-pass membrane protein
+membrane_proteins,Basolateral cell membrane Multi-pass membrane protein
+membrane_proteins,Basolateral cell membrane Peripheral membrane protein
+membrane_proteins,Basolateral cell membrane Single-pass type I membrane protein
+membrane_proteins,Basolateral cell membrane Single-pass type II membrane protein
+membrane_proteins,Cell membrane Multi-pass membrane protein
+membrane_proteins,Cell membrane Peripheral membrane protein
+membrane_proteins,Cell membrane Peripheral membrane protein Cytoplasmic side
+membrane_proteins,Cell membrane Peripheral membrane protein Extracellular side
+membrane_proteins,Cell membrane Sarcolemma Multi-pass membrane protein
+membrane_proteins,Cell membrane Sarcolemma Peripheral membrane protein
+membrane_proteins,Cell membrane Sarcolemma Peripheral membrane protein Cytoplasmic side
+membrane_proteins,Cell membrane Sarcolemma T-tubule Multi-pass membrane protein
+membrane_proteins,Cell membrane Single-pass membrane protein
+membrane_proteins,Cell membrane Single-pass type I membrane protein
+membrane_proteins,Cell membrane Single-pass type I membrane protein Extracellular side
+membrane_proteins,Cell membrane Single-pass type II membrane protein
+membrane_proteins,Cell membrane Single-pass type II membrane protein Extracellular side
+membrane_proteins,Cell membrane Single-pass type III membrane protein
+membrane_proteins,Membrane Multi-pass membrane protein
+membrane_proteins,Membrane Peripheral membrane protein
+membrane_proteins,Membrane Peripheral membrane protein Cytoplasmic side
+membrane_proteins,Membrane Single-pass membrane protein
+membrane_proteins,Membrane Single-pass type I membrane protein
+membrane_proteins,Membrane Single-pass type I membrane protein Extracellular side
+membrane_proteins,Membrane Single-pass type II membrane protein
+membrane_proteins,Membrane Single-pass type III membrane protein
+membrane_proteins,Membrane raft Peripheral membrane protein Extracellular side
+membrane_proteins,Membrane raft Single-pass type I membrane protein
+membrane_proteins,Postsynaptic cell membrane Multi-pass membrane protein
+membrane_proteins,Postsynaptic cell membrane Peripheral membrane protein Cytoplasmic side
+membrane_proteins,Postsynaptic cell membrane Single-pass type I membrane protein
+membrane_proteins,Postsynaptic density membrane Multi-pass membrane protein
+membrane_proteins,Presynaptic cell membrane Multi-pass membrane protein
+membrane_proteins,Synaptic cell membrane Multi-pass membrane protein
+membrane_proteins,Target cell membrane Multi-pass membrane protein
+midbody,Midbody
+midbody,Midbody Midbody ring
+mitochondria,Mitochondrion
+mitochondrial_membrane,Mitochondrion inner membrane
+mitochondrial_membrane,Mitochondrion inner membrane Multi-pass membrane protein
+mitochondrial_membrane,Mitochondrion inner membrane Multi-pass membrane protein Matrix side
+mitochondrial_membrane,Mitochondrion inner membrane Peripheral membrane protein
+mitochondrial_membrane,Mitochondrion inner membrane Peripheral membrane protein Intermembrane side
+mitochondrial_membrane,Mitochondrion inner membrane Peripheral membrane protein Matrix side
+mitochondrial_membrane,Mitochondrion inner membrane Single-pass membrane protein
+mitochondrial_membrane,Mitochondrion inner membrane Single-pass membrane protein Matrix side
+mitochondria_matrix,Mitochondrion intermembrane space
+mitochondria_matrix,Mitochondrion matrix
+mitochondria_matrix,Mitochondrion matrix Mitochondrion nucleoid
+mitochondrial_membrane,Mitochondrion membrane
+mitochondrial_membrane,Mitochondrion membrane Lipid-anchor
+mitochondrial_membrane,Mitochondrion membrane Lipid-anchor GPI-anchor
+mitochondrial_membrane,Mitochondrion membrane Multi-pass membrane protein
+mitochondrial_membrane,Mitochondrion membrane Peripheral membrane protein
+mitochondrial_membrane,Mitochondrion membrane Single-pass membrane protein
+mitochondrial_membrane,Mitochondrion membrane Single-pass type II membrane protein
+mitochondrial_membrane,Mitochondrion membrane Single-pass type IV membrane protein
+mitochondrial_membrane,Mitochondrion outer membrane
+mitochondrial_membrane,Mitochondrion outer membrane Lipid-anchor Cytoplasmic side
+mitochondrial_membrane,Mitochondrion outer membrane Multi-pass membrane protein
+mitochondrial_membrane,Mitochondrion outer membrane Peripheral membrane protein
+mitochondrial_membrane,Mitochondrion outer membrane Peripheral membrane protein Cytoplasmic side
+mitochondrial_membrane,Mitochondrion outer membrane Single-pass membrane protein
+mitochondrial_membrane,Mitochondrion outer membrane Single-pass membrane protein Extracellular side
+mitochondrial_membrane,Mitochondrion outer membrane Single-pass type II membrane protein
+mitochondrial_membrane,Mitochondrion outer membrane Single-pass type III membrane protein
+mitochondrial_membrane,Mitochondrion outer membrane Single-pass type IV membrane protein
+mitochondrial_membrane,Mitochondrion outer membrane Single-pass type IV membrane protein Cytoplasmic side
+nucleoplasm,Chromosome
+nucleoplasm,Chromosome Centromere
+nucleoplasm,Chromosome Centromere Kinetochore
+nucleoplasm,Chromosome Telomere
+nucleus,Nucleus
+nuclear_bodies,Nucleus Cajal body
+nucleus,Nucleus Gem
+nuclear_membrane,Nucleus Nuclear pore complex
+nucleolus,Nucleus Nucleolus
+nucleoplasm,Nucleus Nucleoplasm
+nuclear_bodies,Nucleus PML body
+nuclear_membrane,Nucleus envelope
+nuclear_membrane,Nucleus inner membrane
+nuclear_membrane,Nucleus inner membrane Multi-pass membrane protein
+nuclear_membrane,Nucleus inner membrane Peripheral membrane protein
+nucleus,Nucleus intermembrane space
+nuclear_membrane,Nucleus lamina
+nucleoplasm,Nucleus matrix
+nuclear_membrane,Nucleus membrane
+nuclear_membrane,Nucleus membrane Lipid-anchor
+nuclear_membrane,Nucleus membrane Multi-pass membrane protein
+nuclear_membrane,Nucleus membrane Peripheral membrane protein
+nuclear_membrane,Nucleus membrane Peripheral membrane protein Nucleoplasmic side
+nuclear_membrane,Nucleus membrane Single-pass membrane protein
+nuclear_membrane,Nucleus membrane Single-pass membrane protein Cytoplasmic side
+nuclear_membrane,Nucleus membrane Single-pass type I membrane protein
+nuclear_membrane,Nucleus outer membrane
+nuclear_membrane,Nucleus outer membrane Multi-pass membrane protein
+nuclear_membrane,Nucleus outer membrane Peripheral membrane protein
+nuclear_membrane,Nucleus outer membrane Single-pass type IV membrane protein Cytoplasmic side
+nuclear_speckles,Nucleus speckle
+plasma_membrane,Apical cell membrane
+plasma_membrane,Apical cell membrane Lipid-anchor
+plasma_membrane,Apical cell membrane Lipid-anchor GPI-anchor
+plasma_membrane,Basal cell membrane
+plasma_membrane,Basolateral cell membrane
+plasma_membrane,Basolateral cell membrane Lipid-anchor GPI-like-anchor
+plasma_membrane,Cell membrane
+plasma_membrane,Cell membrane Lipid-anchor
+plasma_membrane,Cell membrane Lipid-anchor Cytoplasmic side
+plasma_membrane,Cell membrane Lipid-anchor GPI-anchor
+plasma_membrane,Cell membrane Lipid-anchor GPI-anchor Extracellular side
+plasma_membrane,Cell membrane Sarcolemma
+plasma_membrane,Cell membrane Sarcolemma T-tubule
+plasma_membrane,Membrane
+plasma_membrane,Membrane Caveola
+plasma_membrane,Membrane Caveola Lipid-anchor
+plasma_membrane,Membrane Caveola Multi-pass membrane protein
+plasma_membrane,Membrane Clathrin-coated pit
+plasma_membrane,Membrane Coated pit
+plasma_membrane,Membrane Lipid-anchor
+plasma_membrane,Membrane raft
+plasma_membrane,Lateral cell membrane
+plasma_membrane,Lateral cell membrane Multi-pass membrane protein
+plasma_membrane,Postsynapse
+plasma_membrane,Postsynaptic cell membrane
+plasma_membrane,Postsynaptic density
+plasma_membrane,Postsynaptic density membrane
+plasma_membrane,Preautophagosomal structure
+plasma_membrane,Presynapse
+plasma_membrane,Presynaptic active zone
+plasma_membrane,Presynaptic cell membrane
+plasma_membrane,Presynaptic cell membrane Lipid-anchor
+endoplasmic_reticulum,Sarcoplasmic reticulum
+er_lumen,Sarcoplasmic reticulum lumen
+er_membrane,Sarcoplasmic reticulum membrane
+er_membrane,Sarcoplasmic reticulum membrane Lipid-anchor GPI-anchor
+er_membrane,Sarcoplasmic reticulum membrane Multi-pass membrane protein
+er_membrane,Sarcoplasmic reticulum membrane Peripheral membrane protein Cytoplasmic side
+er_membrane,Sarcoplasmic reticulum membrane Single-pass type II membrane protein
+secreted,Secreted
+secreted,Secreted Extracellular exosome
+secreted,Secreted Extracellular space
+secreted,Secreted Extracellular space Extracellular matrix
+secreted,Secreted Extracellular space Extracellular matrix Basement membrane
+secreted,Secreted Extracellular space Surface film
